@@ -1,0 +1,36 @@
+1. For music recordings - Flat.io
+
+2. https://medium.com/@blogsupport/deep-learning-based-raga-classification-in-carnatic-music-e499018ea1b7.  - DL model for classification of ragas 
+
+3. https://musiclegato.com/Tutorial/Carnatic.aspx - 72 ragas and their western notes 
+
+4. https://d1wqtxts1xzle7.cloudfront.net/57158327/tansen-libre.pdf?1533801920=&response-content-disposition=inline%3B+filename%3DTANSEN_A_System_for_Automatic_Raga_Ident.pdf&Expires=1726293543&Signature=AA~sZux096YZv8RJPzi1PB3-N4O3Ljp4EcGg0vwbmwQiaINC0kFL4QdAHAnu32xm2csuRBc8GKRdgxh5HnojXdF-C05Z-Ykxd1sbY-AN2tc55AfqKGNXEUUL8efn5BX4GFi6B4Zawx2yHrXtaGrsq94o9QKbhvxaGwkPEJ15oTi1mJ8O0yU3CCW20P3GH1AfpblKwxEjl2XgmjRmn2CuGw7XYqjWVXu-4mCmOpPoi4hz~Ow4adAqZeWEXXi8lefSr6i3gtPalReOCP78-kC~plCkjowN-iyXwNL6Nrtl5fVeiAwYWbMz71cVAMZ31Qz68PpmQpkz71TmshGaIqfi7A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA - System for automatic raga identification
+
+5. https://arxiv.org/pdf/2212.05335 - raga recognition paper, what the major components are and what is required
+
+6. https://compmusic.upf.edu/node/328#:~:text=Carnatic%20music%20r%C4%81ga%20recognition%20dataset,with%2012%20recordings%20per%20r%C4%81ga. - sample dataset which can be used
+
+7. https://youtu.be/rj9NOiFLxWA?si=furw0FlhyCbLJ98R - extracting musical notes from audio in python using FFT
+
+8. https://dsp.stackexchange.com/questions/89190/separating-an-audio-file-into-n-frequencies - separating an audio file into N frequencies
+
+9. https://medium.com/@anht_59851/tone-frequency-detection-from-an-audio-file-by-python-44d673f2e26b - tone frequency detection from an audio file
+
+10. https://youtu.be/spUNpyF58BY?si=BxFmXPjEV73eVLC7 - 3Blue1Brown video on Fourier transforms
+
+11. https://www.irjet.net/archives/V10/i12/IRJET-V10I1228.pdf - FFT Based approach for Piano note detection research paper 
+
+12. https://www.researchgate.net/publication/283185046_Musical_Notes_Identification_using_Digital_Signal_Processing - Musical Notes identification using digital signal processing
+
+13. Note detection from audio https://github.com/jeffheaton/present/blob/master/youtube/video/fft-frequency.ipynb
+
+14. https://youtu.be/G74t5az6PLo?si=jri76pP63n9rO9Xu - What is a fourier transform?
+
+15. https://www.cs.bu.edu/fac/snyder/cs583/Literature%20and%20Resources/PitchExtractionMastersThesis.pdf - Pitch Extraction and Fundamental Frequencies research paper 
+
+
+
+
+
+
+
