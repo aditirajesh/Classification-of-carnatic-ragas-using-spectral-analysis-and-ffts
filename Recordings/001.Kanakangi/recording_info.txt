@@ -1,9 +1,0 @@
-1. Normal .wav files - recorded in third octave (using normal quarter note - no varying note durations)
-
-2. _2 ending .wav files - recorded in fourth octave (using normal quarter note - no varying note durations)
-
-3. _3 ending .wav files - recorded in fifth octave  (using normal quarter note - no varying note durations)
-
-4. _4 ending .wav files - recorded in sixth octave (using normal quarter note - no varying note durations)
-
-5. _5 ending .wav files - recorded in fourth octave 
